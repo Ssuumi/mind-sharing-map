@@ -1,3 +1,11 @@
+## 담당 역할
+
+- 감정 데이터 수집 및 전처리
+- 감정 레이블 설계
+- KcELECTRA 모델 학습
+- FastAPI 기반 API 연동
+- 발표 및 PPT 제작
+  
 # mind-sharing-map
 마음 나눌지도 (Mind Sharing Map)
 프로젝트 소개
