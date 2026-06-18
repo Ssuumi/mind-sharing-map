@@ -117,3 +117,6 @@ KcELECTRA 모델을 활용하여 텍스트 기반 감정 분석 모델을 학습
 특히 데이터 품질과 레이블링 기준이 모델 성능에 큰 영향을 미친다는 점을 체감할 수 있었으며, 협업과 의사소통의 중요성을 배울 수 있었습니다.
 
 또한 실제 사용자 데이터를 다루는 과정에서 데이터 기반 문제 해결 능력을 향상시킬 수 있었습니다.
+
+<img width="356" height="561" alt="image" src="https://github.com/user-attachments/assets/e3f3906e-b83e-48f7-b2e5-fa80f2bf0b66" />
+
