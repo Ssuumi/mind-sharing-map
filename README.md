@@ -1,3 +1,4 @@
+<img width="594" height="838" alt="심캡 포스터" src="https://github.com/user-attachments/assets/cd439149-365d-4679-8ff3-c2f7500cbd21" />
 ## 담당 역할
 
 - 감정 데이터 수집 및 전처리
